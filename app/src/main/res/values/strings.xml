@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Shopping List</string>
+    
+    <string-array name="ShoppingItems">
+        <item>Mainboard</item>
+        <item>Bildschirm</item>
+        <item>Usb-Stick</item>
+        <item>Festplatte</item>
+        <item>Maus</item>
+        <item>Tastatur</item>
+        <item>Lautsprecher</item>
+        <item>Schreibtisch</item>
+        <item>Lampe</item>
+        <item>Drucker</item>
+        <item>Verteilerdose</item>
+
+
+
+    </string-array>
+</resources>
